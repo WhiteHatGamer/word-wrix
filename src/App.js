@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { CKEditor } from "@ckeditor/ckeditor5-react";
 import ClassicEditor from "ckeditor5-build-classic-mathtype";
-import ReactHtmlParser from "react-html-parser";
+import DOMPurify from 'dompurify';
 
 export default function App() {
   const [ckData, setCkData] = useState("");
@@ -60,7 +60,7 @@ export default function App() {
           setCkData(data);
         }}
       />
-      <div>{ReactHtmlParser(ckData)}</div>
+      <div>{DOMPurify.sanitize(ckData)}</div>
       <div>{ckData}</div>
     </React.Fragment>
   );
