@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/word-wrix/static/css/main.fc5c2c69.css",
+    "main.js": "/word-wrix/static/js/main.df820d46.js",
+    "index.html": "/word-wrix/index.html",
+    "main.fc5c2c69.css.map": "/word-wrix/static/css/main.fc5c2c69.css.map",
+    "main.df820d46.js.map": "/word-wrix/static/js/main.df820d46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.df820d46.js"
+  ]
+}
