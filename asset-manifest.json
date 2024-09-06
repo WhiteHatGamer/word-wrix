@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/word-wrix/static/css/main.75070800.css",
-    "main.js": "/word-wrix/static/js/main.cc43ef8d.js",
+    "main.js": "/word-wrix/static/js/main.9b1b3420.js",
     "index.html": "/word-wrix/index.html",
     "main.75070800.css.map": "/word-wrix/static/css/main.75070800.css.map",
-    "main.cc43ef8d.js.map": "/word-wrix/static/js/main.cc43ef8d.js.map"
+    "main.9b1b3420.js.map": "/word-wrix/static/js/main.9b1b3420.js.map"
   },
   "entrypoints": [
     "static/css/main.75070800.css",
-    "static/js/main.cc43ef8d.js"
+    "static/js/main.9b1b3420.js"
   ]
 }
