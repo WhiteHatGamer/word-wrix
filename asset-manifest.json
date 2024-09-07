@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/word-wrix/static/css/main.167c5f92.css",
-    "main.js": "/word-wrix/static/js/main.12c9bd7b.js",
+    "main.css": "/word-wrix/static/css/main.1d7905b1.css",
+    "main.js": "/word-wrix/static/js/main.7c618ff6.js",
     "static/media/atom.jpg": "/word-wrix/static/media/atom.cba4b1b7002eaa1d70ff.jpg",
     "static/media/pi.jpg": "/word-wrix/static/media/pi.8fc4321ef84be0f2da55.jpg",
     "index.html": "/word-wrix/index.html",
-    "main.167c5f92.css.map": "/word-wrix/static/css/main.167c5f92.css.map",
-    "main.12c9bd7b.js.map": "/word-wrix/static/js/main.12c9bd7b.js.map"
+    "main.1d7905b1.css.map": "/word-wrix/static/css/main.1d7905b1.css.map",
+    "main.7c618ff6.js.map": "/word-wrix/static/js/main.7c618ff6.js.map"
   },
   "entrypoints": [
-    "static/css/main.167c5f92.css",
-    "static/js/main.12c9bd7b.js"
+    "static/css/main.1d7905b1.css",
+    "static/js/main.7c618ff6.js"
   ]
 }
